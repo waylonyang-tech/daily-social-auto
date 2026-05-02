@@ -1,0 +1,29 @@
+# Local content (NEVER push generated posts to git)
+social-content/
+~/social-content/
+
+# Secrets
+.env
+.env.local
+*.key
+
+# Logs
+*.log
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Fonts (download via INSTALL.md, don't commit)
+fonts/*.ttf
+fonts/*.otf
