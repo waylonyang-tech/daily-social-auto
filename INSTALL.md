@@ -46,7 +46,7 @@
 ## Phase 2：安裝 Skill
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/daily-social-auto.git \
+git clone https://github.com/waylonyang-tech/daily-social-auto.git \
   ~/.openclaw/skills/daily-social-auto
 
 ls ~/.openclaw/skills/daily-social-auto/
